@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dunes-script-module name="myaction2" result-type="string" api-version="6.0.0" id="4e5f4009-8f13-4ad2-b9b8-df9084c9f5ce" version="0.0.0" allowed-operations="vef">
+  <param n="input1" t="string"><![CDATA[]]></param>
+  <script encoded="false"><![CDATA[return "This is sample action 2: " + input1;
+]]></script>
+</dunes-script-module>
