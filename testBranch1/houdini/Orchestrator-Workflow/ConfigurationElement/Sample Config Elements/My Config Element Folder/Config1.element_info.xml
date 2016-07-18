@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">Sample Config Elements.My Config Element Folder</entry>
+<entry key="name">Config1</entry>
+<entry key="type">ConfigurationElement</entry>
+<entry key="id">5690d31a-59b4-4a14-9373-28c32e6b7233</entry>
+</properties>

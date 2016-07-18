@@ -1,0 +1,84 @@
+{
+	"packages": [{
+		"packageName": "Workflow 2",
+		"primaryPackage": false,
+		"uniqueId": "3bd8b800-b1b0-4707-bece-4c71589e48bc",
+		"packageType": "Orchestrator-Workflow",
+		"packageVersionRef": "",
+		"dependencies": [{
+			"uniqueId": "",
+			"dependencyName": "com.houdini.sample/myaction3"
+		}],
+		"files": [
+			"Workflow/Sample Workflows/My Workflow Folder/Other Workflow Folder/Workflow 2.xml",
+			"Workflow/Sample Workflows/My Workflow Folder/Other Workflow Folder/Workflow 2.element_info.xml"
+		]
+	}, {
+		"packageName": "Workflow 1",
+		"primaryPackage": true,
+		"uniqueId": "1a93bdd4-193e-43ce-9aa5-6322ff5ecc39",
+		"packageType": "Orchestrator-Workflow",
+		"packageVersionRef": "",
+		"dependencies": [{
+			"uniqueId": "",
+			"dependencyName": "com.houdini.sample/myaction2"
+		}],
+		"files": [
+			"Workflow/Sample Workflows/My Workflow Folder/Workflow 1.xml",
+			"Workflow/Sample Workflows/My Workflow Folder/Workflow 1.element_info.xml"
+		]
+	}, {
+		"packageName": "Workflow 3",
+		"primaryPackage": false,
+		"uniqueId": "25439143-38de-41e0-bbc5-2133d3f6080d",
+		"packageType": "Orchestrator-Workflow",
+		"packageVersionRef": "",
+		"dependencies": [{
+			"uniqueId": "1a93bdd4-193e-43ce-9aa5-6322ff5ecc39",
+			"dependencyName": "Workflow 1"
+		}, {
+			"uniqueId": "com.houdini.sample/myaction1",
+			"dependencyName": "com.houdini.sample/myaction1"
+		}],
+		"files": [
+			"Workflow/Sample Workflows/My Workflow Folder/Workflow 3.xml",
+			"Workflow/Sample Workflows/My Workflow Folder/Workflow 3.element_info.xml"
+		]
+	}, {
+		"packageName": "com.houdini.sample/myaction1",
+		"primaryPackage": false,
+		"uniqueId": "com.houdini.sample/myaction1",
+		"packageType": "Orchestrator-Action",
+		"packageVersionRef": "",
+		"dependencies": [{
+			"uniqueId": "com.houdini.sample/myaction2",
+			"dependencyName": "com.houdini.sample/myaction2"
+		}],
+		"files": [
+			"ScriptModule/com/houdini/sample/myaction1.xml",
+			"ScriptModule/com/houdini/sample/myaction1.element_info.xml"
+		]
+	}, {
+		"packageName": "com.houdini.sample/myaction2",
+		"primaryPackage": false,
+		"uniqueId": "com.houdini.sample/myaction2",
+		"packageType": "Orchestrator-Action",
+		"packageVersionRef": "",
+		"dependencies": [],
+		"files": [
+			"ScriptModule/com/houdini/sample/myaction2.xml",
+			"ScriptModule/com/houdini/sample/myaction2.element_info.xml"
+		]
+	}, {
+		"packageName": "com.houdini.sample/myaction3",
+		"primaryPackage": false,
+		"uniqueId": "com.houdini.sample/myaction3",
+		"packageType": "Orchestrator-Action",
+		"packageVersionRef": "",
+		"dependencies": [],
+		"files": [
+			"ScriptModule/com/houdini/sample/myaction3.xml",
+			"ScriptModule/com/houdini/sample/myaction3.element_info.xml"
+		]
+	}]
+}

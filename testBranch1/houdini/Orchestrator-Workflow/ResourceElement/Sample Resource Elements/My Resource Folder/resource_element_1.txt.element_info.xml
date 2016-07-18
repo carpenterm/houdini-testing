@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="version">1.0.0</entry>
+<entry key="mimetype">text/plain</entry>
+<entry key="categoryPath">Sample Resource Elements.My Resource Folder</entry>
+<entry key="name">resource_element_1.txt</entry>
+<entry key="type">ResourceElement</entry>
+<entry key="description">Imported from : &apos;/Users/carpenterm/Downloads/resource_element_1.txt&apos; on server ra-vrcs-02.refarch.eng.vmware.com:443</entry>
+<entry key="id">6e6d2ae1-5a5a-4d94-9697-07a596589a03</entry>
+</properties>
