@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dunes-script-module name="myaction3" result-type="string" api-version="6.0.0" id="a557a649-992d-4f62-8816-9f167e70de86" version="0.0.0" allowed-operations="vef">
+  <script encoded="false"><![CDATA[System.debug("This is sample action 3");
+]]></script>
+</dunes-script-module>

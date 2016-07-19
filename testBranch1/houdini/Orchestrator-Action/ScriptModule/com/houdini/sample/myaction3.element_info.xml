@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">com.houdini.sample</entry>
+<entry key="name">myaction3</entry>
+<entry key="type">ScriptModule</entry>
+<entry key="id">a557a649-992d-4f62-8816-9f167e70de86</entry>
+</properties>

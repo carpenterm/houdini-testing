@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dunes-script-module name="myaction1" result-type="string" api-version="6.0.0" id="92fd2100-281b-489d-91be-18d6ee9cc65c" version="0.0.1" allowed-operations="vef">
+  <script encoded="false"><![CDATA[System.debug("This is sample action 1 calling sample action 2...");
+return System.getModule("com.houdini.sample").myaction2("Called from action 1");]]></script>
+</dunes-script-module>
