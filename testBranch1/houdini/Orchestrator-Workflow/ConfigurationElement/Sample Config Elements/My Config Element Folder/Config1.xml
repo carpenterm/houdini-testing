@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config-element id="5690d31a-59b4-4a14-9373-28c32e6b7233"  version="1.0.0">
-  <display-name><![CDATA[Config1]]></display-name>
-  <atts>
-    <att name="input1" type="string" read-only="false">
-      <value encoded="n"><![CDATA[]]></value>
-    </att>
-  </atts>
-</config-element>
