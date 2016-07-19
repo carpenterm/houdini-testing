@@ -32,7 +32,7 @@
 		"uniqueId": "1a93bdd4-193e-43ce-9aa5-6322ff5ecc39",
 		"packageType": "Orchestrator-Workflow",
 		"dependencies": [{
-			"uniqueId": "",
+			"uniqueId": "com.houdini.sample/myaction2",
 			"dependencyName": "com.houdini.sample/myaction2"
 		}],
 		"files": [
@@ -46,7 +46,7 @@
 		"uniqueId": "3bd8b800-b1b0-4707-bece-4c71589e48bc",
 		"packageType": "Orchestrator-Workflow",
 		"dependencies": [{
-			"uniqueId": "",
+			"uniqueId": "com.houdini.sample/myaction3",
 			"dependencyName": "com.houdini.sample/myaction3"
 		}],
 		"files": [
